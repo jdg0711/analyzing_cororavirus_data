@@ -13,3 +13,5 @@ Programming languages and libraries used:
 - janitor
 - ggplot2
 
+Click this [link](https://jdg0711.github.io/analyzing_cororavirus_data/Coronavirus_Starting.html) to view the RStudio notebook rendered as a webpage.
+
